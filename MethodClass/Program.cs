@@ -14,6 +14,8 @@ namespace MethodClass
 
             mathDisplay.MathDis(5, 7);
 
+            mathDisplay.MathDis(i: 12, j: 6);
+
             Console.ReadLine();
         }
     }
